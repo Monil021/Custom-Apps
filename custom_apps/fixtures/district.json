@@ -1,0 +1,5259 @@
+[
+ {
+  "district_name": "Bhiwani",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.431208",
+  "name": "Bhiwani",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Faridabad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.472581",
+  "name": "Faridabad",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Fatehabad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.503947",
+  "name": "Fatehabad",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Gurgaon (Gurugram)",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.532842",
+  "name": "Gurgaon (Gurugram)",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Hisar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.567928",
+  "name": "Hisar",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Jhajjar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.596369",
+  "name": "Jhajjar",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Jind",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.628441",
+  "name": "Jind",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Kaithal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.678720",
+  "name": "Kaithal",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Kurukshetra",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.826581",
+  "name": "Kurukshetra",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Mahendragarh (Narnaul)",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.841822",
+  "name": "Mahendragarh (Narnaul)",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Mewat",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.858387",
+  "name": "Mewat",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Palwal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.874931",
+  "name": "Palwal",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Panchkula",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.888645",
+  "name": "Panchkula",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Panipat",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.903646",
+  "name": "Panipat",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Rewari",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.917685",
+  "name": "Rewari",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Rohtak",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.933402",
+  "name": "Rohtak",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Sirsa",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.948963",
+  "name": "Sirsa",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Sonipat",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.962007",
+  "name": "Sonipat",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Anantapur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.988538",
+  "name": "Anantapur",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Chittoor",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.002352",
+  "name": "Chittoor",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "East Godavari",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.013099",
+  "name": "East Godavari",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Guntur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.026491",
+  "name": "Guntur",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Krishna",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.043593",
+  "name": "Krishna",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Kurnool",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.058299",
+  "name": "Kurnool",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Nellore",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.071960",
+  "name": "Nellore",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Prakasam",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.086712",
+  "name": "Prakasam",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Srikakulam",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.098807",
+  "name": "Srikakulam",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Visakhapatnam",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.112248",
+  "name": "Visakhapatnam",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Vizianagaram",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.125107",
+  "name": "Vizianagaram",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "West Godavari",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.140535",
+  "name": "West Godavari",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "YSR Kadapa",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.155348",
+  "name": "YSR Kadapa",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Adilabad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.167672",
+  "name": "Adilabad",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Hyderabad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.186550",
+  "name": "Hyderabad",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Karimnagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.203913",
+  "name": "Karimnagar",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Khammam",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.219867",
+  "name": "Khammam",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Medak",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.253240",
+  "name": "Medak",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Nalgonda",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.265247",
+  "name": "Nalgonda",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Nizamabad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.281756",
+  "name": "Nizamabad",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Warangal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.298860",
+  "name": "Warangal",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Jayashankar Bhupalpally",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.318062",
+  "name": "Jayashankar Bhupalpally",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Mulugu",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.333035",
+  "name": "Mulugu",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Peddapalli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.345232",
+  "name": "Peddapalli",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Rajanna Sircilla",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.359853",
+  "name": "Rajanna Sircilla",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Tawang",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.373878",
+  "name": "Tawang",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "West Kameng",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.390125",
+  "name": "West Kameng",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "East Kameng",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.403688",
+  "name": "East Kameng",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Papum Pare",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.416062",
+  "name": "Papum Pare",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Lower Subansiri",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.428999",
+  "name": "Lower Subansiri",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Upper Subansiri",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.442303",
+  "name": "Upper Subansiri",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "West Siang",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.456607",
+  "name": "West Siang",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "East Siang",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.470545",
+  "name": "East Siang",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Siang",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.487772",
+  "name": "Siang",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Changlang",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.504793",
+  "name": "Changlang",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Tirap",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.522406",
+  "name": "Tirap",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Longding",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.541257",
+  "name": "Longding",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Anjaw",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.555506",
+  "name": "Anjaw",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Lohit",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.566954",
+  "name": "Lohit",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Namsai",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.583300",
+  "name": "Namsai",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Kamle",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.602537",
+  "name": "Kamle",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Kurung Kumey",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.622350",
+  "name": "Kurung Kumey",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Kra Daadi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.635492",
+  "name": "Kra Daadi",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Leparada",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.651438",
+  "name": "Leparada",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Lower Dibang Valley",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.666751",
+  "name": "Lower Dibang Valley",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Upper Dibang Valley",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.681411",
+  "name": "Upper Dibang Valley",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Dibang Valley",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.699047",
+  "name": "Dibang Valley",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Upper Siang",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.712246",
+  "name": "Upper Siang",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Pakke-Kessang",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.726499",
+  "name": "Pakke-Kessang",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Shi-Yomi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.740004",
+  "name": "Shi-Yomi",
+  "state": "Arunachal Pradesh"
+ },
+ {
+  "district_name": "Baksa",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.753186",
+  "name": "Baksa",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Barpeta",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.764144",
+  "name": "Barpeta",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Bongaigaon",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.779118",
+  "name": "Bongaigaon",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Cachar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.796113",
+  "name": "Cachar",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Charaideo",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.811100",
+  "name": "Charaideo",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Chirang",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.825639",
+  "name": "Chirang",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Darrang",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.844064",
+  "name": "Darrang",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Dhemaji",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.862925",
+  "name": "Dhemaji",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Dhubri",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.886629",
+  "name": "Dhubri",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Dibrugarh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.918682",
+  "name": "Dibrugarh",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Goalpara",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.932341",
+  "name": "Goalpara",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Golaghat",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.947254",
+  "name": "Golaghat",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Hailakandi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.963676",
+  "name": "Hailakandi",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Hojai",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.978334",
+  "name": "Hojai",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Jorhat",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.991915",
+  "name": "Jorhat",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Kamrup",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.009930",
+  "name": "Kamrup",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Kamrup Metropolitan",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.025497",
+  "name": "Kamrup Metropolitan",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Karbi Anglong",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.040818",
+  "name": "Karbi Anglong",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Karimganj",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.058767",
+  "name": "Karimganj",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Kokrajhar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.071958",
+  "name": "Kokrajhar",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Lakhimpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.085476",
+  "name": "Lakhimpur",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Majuli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.098111",
+  "name": "Majuli",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Morigaon",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.114113",
+  "name": "Morigaon",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Nagaon",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.129012",
+  "name": "Nagaon",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Nalbari",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.142643",
+  "name": "Nalbari",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Sivasagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.154980",
+  "name": "Sivasagar",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Sonitpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.167151",
+  "name": "Sonitpur",
+  "state": "Assam"
+ },
+ {
+  "district_name": "South Salmara-Mankachar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.179967",
+  "name": "South Salmara-Mankachar",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Tinsukia",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.194627",
+  "name": "Tinsukia",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Udalguri",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.209567",
+  "name": "Udalguri",
+  "state": "Assam"
+ },
+ {
+  "district_name": "West Karbi Anglong",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.225535",
+  "name": "West Karbi Anglong",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Biswanath",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.240768",
+  "name": "Biswanath",
+  "state": "Assam"
+ },
+ {
+  "district_name": "Araria",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.256386",
+  "name": "Araria",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Arwal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.271547",
+  "name": "Arwal",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Aurangabad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.285325",
+  "name": "Aurangabad",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Banka",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.301350",
+  "name": "Banka",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Begusarai",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.321216",
+  "name": "Begusarai",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Bhagalpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.337897",
+  "name": "Bhagalpur",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Bhojpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.353992",
+  "name": "Bhojpur",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Buxar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.365847",
+  "name": "Buxar",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Darbhanga",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.380644",
+  "name": "Darbhanga",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "East Champaran",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.395942",
+  "name": "East Champaran",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Gaya",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.413462",
+  "name": "Gaya",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Gopalganj",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.429855",
+  "name": "Gopalganj",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Jamui",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.443051",
+  "name": "Jamui",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Jehanabad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.457346",
+  "name": "Jehanabad",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Kaimur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.470990",
+  "name": "Kaimur",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Katihar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.483725",
+  "name": "Katihar",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Kishanganj",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.496540",
+  "name": "Kishanganj",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Lakhisarai",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.511220",
+  "name": "Lakhisarai",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Madhepura",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.525906",
+  "name": "Madhepura",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Madhubani",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.538827",
+  "name": "Madhubani",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Munger",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.550615",
+  "name": "Munger",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Muzaffarpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.563247",
+  "name": "Muzaffarpur",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Nalanda",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.577440",
+  "name": "Nalanda",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Nawada",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.592288",
+  "name": "Nawada",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Purnia",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.607578",
+  "name": "Purnia",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Rohtas",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.625378",
+  "name": "Rohtas",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Saharsa",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.641259",
+  "name": "Saharsa",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Samastipur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.655053",
+  "name": "Samastipur",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Saran",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.668154",
+  "name": "Saran",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Sheikhpura",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.682519",
+  "name": "Sheikhpura",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Sheohar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.697020",
+  "name": "Sheohar",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Sitamarhi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.710576",
+  "name": "Sitamarhi",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Siwan",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.728890",
+  "name": "Siwan",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Supaul",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.743422",
+  "name": "Supaul",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Vaishali",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.759715",
+  "name": "Vaishali",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "West Champaran",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.777059",
+  "name": "West Champaran",
+  "state": "Bihar"
+ },
+ {
+  "district_name": "Balod",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.791019",
+  "name": "Balod",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Baloda Bazar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.804592",
+  "name": "Baloda Bazar",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Balrampur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.815362",
+  "name": "Balrampur",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Bastar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.831369",
+  "name": "Bastar",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Bilaspur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.845067",
+  "name": "Bilaspur",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Dhamtari",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.858294",
+  "name": "Dhamtari",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Durg",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.871404",
+  "name": "Durg",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Janjgir-Champa",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.882582",
+  "name": "Janjgir-Champa",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Jashpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.896094",
+  "name": "Jashpur",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Korba",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.924582",
+  "name": "Korba",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Koriya",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.953062",
+  "name": "Koriya",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Mahasamund",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:10.991076",
+  "name": "Mahasamund",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Raigarh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.006823",
+  "name": "Raigarh",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Raipur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.023125",
+  "name": "Raipur",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Rajnandgaon",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.043096",
+  "name": "Rajnandgaon",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Sukma",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.061099",
+  "name": "Sukma",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Surajpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.076818",
+  "name": "Surajpur",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "Surguja",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.092384",
+  "name": "Surguja",
+  "state": "Chhattisgarh"
+ },
+ {
+  "district_name": "North Goa",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.108628",
+  "name": "North Goa",
+  "state": "Goa"
+ },
+ {
+  "district_name": "South Goa",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.125458",
+  "name": "South Goa",
+  "state": "Goa"
+ },
+ {
+  "district_name": "Ahmedabad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.144167",
+  "name": "Ahmedabad",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Amreli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.161023",
+  "name": "Amreli",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Anand",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.176143",
+  "name": "Anand",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Banaskantha",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.190950",
+  "name": "Banaskantha",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Bharuch",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.208400",
+  "name": "Bharuch",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Bhavnagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.223234",
+  "name": "Bhavnagar",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Dahod",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.238416",
+  "name": "Dahod",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Dang",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.251809",
+  "name": "Dang",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Gandhinagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.285023",
+  "name": "Gandhinagar",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Jamnagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.316211",
+  "name": "Jamnagar",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Junagadh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.343441",
+  "name": "Junagadh",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Kutch",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.358966",
+  "name": "Kutch",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Mahisagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.375703",
+  "name": "Mahisagar",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Mehsana",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.392499",
+  "name": "Mehsana",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Narmada",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.409153",
+  "name": "Narmada",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Navsari",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.425422",
+  "name": "Navsari",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Panchmahal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.444337",
+  "name": "Panchmahal",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Patan",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.460035",
+  "name": "Patan",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Porbandar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.476412",
+  "name": "Porbandar",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Rajkot",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.492400",
+  "name": "Rajkot",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Surat",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.509033",
+  "name": "Surat",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Tapi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.527333",
+  "name": "Tapi",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Vadodara",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.550270",
+  "name": "Vadodara",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Valsad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.576614",
+  "name": "Valsad",
+  "state": "Gujarat"
+ },
+ {
+  "district_name": "Chamba",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.621762",
+  "name": "Chamba",
+  "state": "Himachal Pradesh"
+ },
+ {
+  "district_name": "Hamirpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.635074",
+  "name": "Hamirpur",
+  "state": "Himachal Pradesh"
+ },
+ {
+  "district_name": "Kangra",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.655948",
+  "name": "Kangra",
+  "state": "Himachal Pradesh"
+ },
+ {
+  "district_name": "Kinnaur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.669836",
+  "name": "Kinnaur",
+  "state": "Himachal Pradesh"
+ },
+ {
+  "district_name": "Mandi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.683456",
+  "name": "Mandi",
+  "state": "Himachal Pradesh"
+ },
+ {
+  "district_name": "Shimla",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.698497",
+  "name": "Shimla",
+  "state": "Himachal Pradesh"
+ },
+ {
+  "district_name": "Sirmaur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.713123",
+  "name": "Sirmaur",
+  "state": "Himachal Pradesh"
+ },
+ {
+  "district_name": "Solan",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.727925",
+  "name": "Solan",
+  "state": "Himachal Pradesh"
+ },
+ {
+  "district_name": "Una",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.744084",
+  "name": "Una",
+  "state": "Himachal Pradesh"
+ },
+ {
+  "district_name": "Bokaro",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.762236",
+  "name": "Bokaro",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Chatra",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.779123",
+  "name": "Chatra",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Deoghar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.796485",
+  "name": "Deoghar",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Dumka",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.812889",
+  "name": "Dumka",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "East Singhbhum",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.828824",
+  "name": "East Singhbhum",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Garhwa",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.846221",
+  "name": "Garhwa",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Giridih",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.867166",
+  "name": "Giridih",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Godda",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.884772",
+  "name": "Godda",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Gumla",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.900059",
+  "name": "Gumla",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Hazaribagh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.916016",
+  "name": "Hazaribagh",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Jamtara",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.932687",
+  "name": "Jamtara",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Khunti",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.957340",
+  "name": "Khunti",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Koderma",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.972840",
+  "name": "Koderma",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Latehar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:11.988301",
+  "name": "Latehar",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Lohardaga",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.008410",
+  "name": "Lohardaga",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Pakur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.026838",
+  "name": "Pakur",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Palamu",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.053412",
+  "name": "Palamu",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Ramgarh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.078530",
+  "name": "Ramgarh",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Ranchi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.093269",
+  "name": "Ranchi",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Sahibganj",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.108302",
+  "name": "Sahibganj",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Seraikela-Kharsawan",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.123797",
+  "name": "Seraikela-Kharsawan",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Simdega",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.140156",
+  "name": "Simdega",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "West Singhbhum",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.156433",
+  "name": "West Singhbhum",
+  "state": "Jharkhand"
+ },
+ {
+  "district_name": "Bagalkot",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.176028",
+  "name": "Bagalkot",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Ballari",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.192720",
+  "name": "Ballari",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Belagavi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.209026",
+  "name": "Belagavi",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Bengaluru Rural",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.228046",
+  "name": "Bengaluru Rural",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Bengaluru Urban",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.245290",
+  "name": "Bengaluru Urban",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Bidar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.265120",
+  "name": "Bidar",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Chamarajanagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.280916",
+  "name": "Chamarajanagar",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Chikkaballapur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.299793",
+  "name": "Chikkaballapur",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Chikkamagaluru",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.316084",
+  "name": "Chikkamagaluru",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Chitradurga",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.331971",
+  "name": "Chitradurga",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Dakshina Kannada",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.348514",
+  "name": "Dakshina Kannada",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Davangere",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.364227",
+  "name": "Davangere",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Dharwad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.378427",
+  "name": "Dharwad",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Gadag",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.391119",
+  "name": "Gadag",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Gulbarga",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.404008",
+  "name": "Gulbarga",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Hassan",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.419010",
+  "name": "Hassan",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Haveri",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.431367",
+  "name": "Haveri",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Kodagu",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.445542",
+  "name": "Kodagu",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Kolar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.460324",
+  "name": "Kolar",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Koppal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.475573",
+  "name": "Koppal",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Mandya",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.489036",
+  "name": "Mandya",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Mysuru",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.501213",
+  "name": "Mysuru",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Raichur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.515064",
+  "name": "Raichur",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Ramanagara",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.530210",
+  "name": "Ramanagara",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Shivamogga",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.544740",
+  "name": "Shivamogga",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Tumakuru",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.559966",
+  "name": "Tumakuru",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Udupi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.575656",
+  "name": "Udupi",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Uttara Kannada",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.590017",
+  "name": "Uttara Kannada",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Yadgir",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.605870",
+  "name": "Yadgir",
+  "state": "Karnataka"
+ },
+ {
+  "district_name": "Alappuzha",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.623515",
+  "name": "Alappuzha",
+  "state": "Kerala"
+ },
+ {
+  "district_name": "Ernakulam",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.638824",
+  "name": "Ernakulam",
+  "state": "Kerala"
+ },
+ {
+  "district_name": "Idukki",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.649759",
+  "name": "Idukki",
+  "state": "Kerala"
+ },
+ {
+  "district_name": "Kannur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.665258",
+  "name": "Kannur",
+  "state": "Kerala"
+ },
+ {
+  "district_name": "Kasaragod",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.680902",
+  "name": "Kasaragod",
+  "state": "Kerala"
+ },
+ {
+  "district_name": "Kottayam",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.697015",
+  "name": "Kottayam",
+  "state": "Kerala"
+ },
+ {
+  "district_name": "Kollam",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.710601",
+  "name": "Kollam",
+  "state": "Kerala"
+ },
+ {
+  "district_name": "Kozhikode",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.724952",
+  "name": "Kozhikode",
+  "state": "Kerala"
+ },
+ {
+  "district_name": "Malappuram",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.738334",
+  "name": "Malappuram",
+  "state": "Kerala"
+ },
+ {
+  "district_name": "Palakkad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.749308",
+  "name": "Palakkad",
+  "state": "Kerala"
+ },
+ {
+  "district_name": "Pathanamthitta",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.764681",
+  "name": "Pathanamthitta",
+  "state": "Kerala"
+ },
+ {
+  "district_name": "Thrissur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.782142",
+  "name": "Thrissur",
+  "state": "Kerala"
+ },
+ {
+  "district_name": "Wayanad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.795766",
+  "name": "Wayanad",
+  "state": "Kerala"
+ },
+ {
+  "district_name": "Agar Malwa",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.808875",
+  "name": "Agar Malwa",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Alirajpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.822022",
+  "name": "Alirajpur",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Anuppur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.833228",
+  "name": "Anuppur",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Ashoknagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.846354",
+  "name": "Ashoknagar",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Balaghat",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.861994",
+  "name": "Balaghat",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Barwani",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.876790",
+  "name": "Barwani",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Betul",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.893346",
+  "name": "Betul",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Bhind",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.909043",
+  "name": "Bhind",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Bhopal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.924820",
+  "name": "Bhopal",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Burhanpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.939964",
+  "name": "Burhanpur",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Chhindwara",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.952835",
+  "name": "Chhindwara",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Damoh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.968628",
+  "name": "Damoh",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Datia",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.984562",
+  "name": "Datia",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Dewas",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:12.998564",
+  "name": "Dewas",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Dhar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.014500",
+  "name": "Dhar",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Dindori",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.030879",
+  "name": "Dindori",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "East Nimar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.045811",
+  "name": "East Nimar",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Guna",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.058454",
+  "name": "Guna",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Gwalior",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.074263",
+  "name": "Gwalior",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Harda",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.092167",
+  "name": "Harda",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Hoshangabad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.111639",
+  "name": "Hoshangabad",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Jabalpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.136053",
+  "name": "Jabalpur",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Jagdalpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.153987",
+  "name": "Jagdalpur",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Jhabua",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.166941",
+  "name": "Jhabua",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Katni",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.180244",
+  "name": "Katni",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Khandwa",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.194986",
+  "name": "Khandwa",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Khargone",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.208005",
+  "name": "Khargone",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Mandla",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.222232",
+  "name": "Mandla",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Mandsaur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.236134",
+  "name": "Mandsaur",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Morena",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.249330",
+  "name": "Morena",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Narsinghpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.265732",
+  "name": "Narsinghpur",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Neemuch",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.282487",
+  "name": "Neemuch",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Panna",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.299436",
+  "name": "Panna",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Raisen",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.314527",
+  "name": "Raisen",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Rajgarh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.329561",
+  "name": "Rajgarh",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Ratlam",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.345292",
+  "name": "Ratlam",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Rewa",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.360589",
+  "name": "Rewa",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Satna",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.376950",
+  "name": "Satna",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Sehore",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.395307",
+  "name": "Sehore",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Shahdol",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.411269",
+  "name": "Shahdol",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Shajapur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.426035",
+  "name": "Shajapur",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Sheopur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.439137",
+  "name": "Sheopur",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Shivpuri",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.451053",
+  "name": "Shivpuri",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Sidhi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.464033",
+  "name": "Sidhi",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Singrauli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.478547",
+  "name": "Singrauli",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Tikamgarh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.496232",
+  "name": "Tikamgarh",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Ujjain",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.510036",
+  "name": "Ujjain",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Umaria",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.523801",
+  "name": "Umaria",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Vidisha",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.539374",
+  "name": "Vidisha",
+  "state": "Madhya Pradesh"
+ },
+ {
+  "district_name": "Ahmednagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.550934",
+  "name": "Ahmednagar",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Akola",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.566048",
+  "name": "Akola",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Amravati",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.584389",
+  "name": "Amravati",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Beed",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.615354",
+  "name": "Beed",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Bhandara",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.631282",
+  "name": "Bhandara",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Buldhana",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.647577",
+  "name": "Buldhana",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Chandrapur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.662383",
+  "name": "Chandrapur",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Dhule",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.678190",
+  "name": "Dhule",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Gadchiroli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.692199",
+  "name": "Gadchiroli",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Gondia",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.711975",
+  "name": "Gondia",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Hingoli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.727030",
+  "name": "Hingoli",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Jalgaon",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.740882",
+  "name": "Jalgaon",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Jalna",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.755481",
+  "name": "Jalna",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Kolhapur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.767336",
+  "name": "Kolhapur",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Latur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.781295",
+  "name": "Latur",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Mumbai City",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.796491",
+  "name": "Mumbai City",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Mumbai Suburban",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.810968",
+  "name": "Mumbai Suburban",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Nagpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.824579",
+  "name": "Nagpur",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Nanded",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.838330",
+  "name": "Nanded",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Nashik",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.848874",
+  "name": "Nashik",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Osmanabad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.863764",
+  "name": "Osmanabad",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Palghar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.877056",
+  "name": "Palghar",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Parbhani",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.891367",
+  "name": "Parbhani",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Pune",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.905442",
+  "name": "Pune",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Raigad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.924042",
+  "name": "Raigad",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Ratnagiri",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.942124",
+  "name": "Ratnagiri",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Sangli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.959576",
+  "name": "Sangli",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Satara",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.976291",
+  "name": "Satara",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Sindhudurg",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:13.993562",
+  "name": "Sindhudurg",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Solapur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.009300",
+  "name": "Solapur",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Thane",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.026005",
+  "name": "Thane",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Wardha",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.041841",
+  "name": "Wardha",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Washim",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.058622",
+  "name": "Washim",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Yavatmal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.077701",
+  "name": "Yavatmal",
+  "state": "Maharashtra"
+ },
+ {
+  "district_name": "Bishnupur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.094398",
+  "name": "Bishnupur",
+  "state": "Manipur"
+ },
+ {
+  "district_name": "Churachandpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.111238",
+  "name": "Churachandpur",
+  "state": "Manipur"
+ },
+ {
+  "district_name": "Imphal East",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.130433",
+  "name": "Imphal East",
+  "state": "Manipur"
+ },
+ {
+  "district_name": "Imphal West",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.150843",
+  "name": "Imphal West",
+  "state": "Manipur"
+ },
+ {
+  "district_name": "Jiribam",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.165676",
+  "name": "Jiribam",
+  "state": "Manipur"
+ },
+ {
+  "district_name": "Kakching",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.186322",
+  "name": "Kakching",
+  "state": "Manipur"
+ },
+ {
+  "district_name": "Kamjong",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.216190",
+  "name": "Kamjong",
+  "state": "Manipur"
+ },
+ {
+  "district_name": "Kangpokpi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.240117",
+  "name": "Kangpokpi",
+  "state": "Manipur"
+ },
+ {
+  "district_name": "Noney",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.254008",
+  "name": "Noney",
+  "state": "Manipur"
+ },
+ {
+  "district_name": "Pherzawl",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.268323",
+  "name": "Pherzawl",
+  "state": "Manipur"
+ },
+ {
+  "district_name": "Senapati",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.281973",
+  "name": "Senapati",
+  "state": "Manipur"
+ },
+ {
+  "district_name": "Tamenglong",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.297650",
+  "name": "Tamenglong",
+  "state": "Manipur"
+ },
+ {
+  "district_name": "Tengnoupal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.313560",
+  "name": "Tengnoupal",
+  "state": "Manipur"
+ },
+ {
+  "district_name": "Thoubal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.332869",
+  "name": "Thoubal",
+  "state": "Manipur"
+ },
+ {
+  "district_name": "Ukhrul",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.350979",
+  "name": "Ukhrul",
+  "state": "Manipur"
+ },
+ {
+  "district_name": "East Garo Hills",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.368301",
+  "name": "East Garo Hills",
+  "state": "Meghalaya"
+ },
+ {
+  "district_name": "East Jaintia Hills",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.384750",
+  "name": "East Jaintia Hills",
+  "state": "Meghalaya"
+ },
+ {
+  "district_name": "East Khasi Hills",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.401274",
+  "name": "East Khasi Hills",
+  "state": "Meghalaya"
+ },
+ {
+  "district_name": "North Garo Hills",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.425034",
+  "name": "North Garo Hills",
+  "state": "Meghalaya"
+ },
+ {
+  "district_name": "Ri-Bhoi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.441096",
+  "name": "Ri-Bhoi",
+  "state": "Meghalaya"
+ },
+ {
+  "district_name": "South Garo Hills",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.457010",
+  "name": "South Garo Hills",
+  "state": "Meghalaya"
+ },
+ {
+  "district_name": "South West Garo Hills",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.472623",
+  "name": "South West Garo Hills",
+  "state": "Meghalaya"
+ },
+ {
+  "district_name": "South West Khasi Hills",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.507766",
+  "name": "South West Khasi Hills",
+  "state": "Meghalaya"
+ },
+ {
+  "district_name": "West Garo Hills",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.543933",
+  "name": "West Garo Hills",
+  "state": "Meghalaya"
+ },
+ {
+  "district_name": "West Jaintia Hills",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.570485",
+  "name": "West Jaintia Hills",
+  "state": "Meghalaya"
+ },
+ {
+  "district_name": "West Khasi Hills",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.593922",
+  "name": "West Khasi Hills",
+  "state": "Meghalaya"
+ },
+ {
+  "district_name": "Aizawl",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.604722",
+  "name": "Aizawl",
+  "state": "Mizoram"
+ },
+ {
+  "district_name": "Champhai",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.618675",
+  "name": "Champhai",
+  "state": "Mizoram"
+ },
+ {
+  "district_name": "Kolasib",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.630262",
+  "name": "Kolasib",
+  "state": "Mizoram"
+ },
+ {
+  "district_name": "Lawngtlai",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.645577",
+  "name": "Lawngtlai",
+  "state": "Mizoram"
+ },
+ {
+  "district_name": "Mamit",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.658849",
+  "name": "Mamit",
+  "state": "Mizoram"
+ },
+ {
+  "district_name": "Serchhip",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.672441",
+  "name": "Serchhip",
+  "state": "Mizoram"
+ },
+ {
+  "district_name": "Lunglei",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.687069",
+  "name": "Lunglei",
+  "state": "Mizoram"
+ },
+ {
+  "district_name": "Dimapur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.698239",
+  "name": "Dimapur",
+  "state": "Nagaland"
+ },
+ {
+  "district_name": "Kohima",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.712972",
+  "name": "Kohima",
+  "state": "Nagaland"
+ },
+ {
+  "district_name": "Mokokchung",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.728377",
+  "name": "Mokokchung",
+  "state": "Nagaland"
+ },
+ {
+  "district_name": "Mon",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.745354",
+  "name": "Mon",
+  "state": "Nagaland"
+ },
+ {
+  "district_name": "Peren",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.760709",
+  "name": "Peren",
+  "state": "Nagaland"
+ },
+ {
+  "district_name": "Tuensang",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.776532",
+  "name": "Tuensang",
+  "state": "Nagaland"
+ },
+ {
+  "district_name": "Wokha",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.795415",
+  "name": "Wokha",
+  "state": "Nagaland"
+ },
+ {
+  "district_name": "Zunheboto",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.809895",
+  "name": "Zunheboto",
+  "state": "Nagaland"
+ },
+ {
+  "district_name": "Angul",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.824514",
+  "name": "Angul",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Balangir",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.838937",
+  "name": "Balangir",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Balasore",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.858040",
+  "name": "Balasore",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Bargarh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.874253",
+  "name": "Bargarh",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Bhadrak",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.889996",
+  "name": "Bhadrak",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Boudh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.907312",
+  "name": "Boudh",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Cuttack",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.921991",
+  "name": "Cuttack",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Deogarh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.933090",
+  "name": "Deogarh",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Dhenkanal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.950948",
+  "name": "Dhenkanal",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Gajapati",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.962736",
+  "name": "Gajapati",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Ganjam",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.976859",
+  "name": "Ganjam",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Jagatsinghpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:14.989627",
+  "name": "Jagatsinghpur",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Jajpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.002739",
+  "name": "Jajpur",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Jharsuguda",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.013188",
+  "name": "Jharsuguda",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Kalahandi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.026979",
+  "name": "Kalahandi",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Kandhamal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.041403",
+  "name": "Kandhamal",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Kendrapara",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.057813",
+  "name": "Kendrapara",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Kendujhar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.073932",
+  "name": "Kendujhar",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Khurda",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.091359",
+  "name": "Khurda",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Koraput",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.109740",
+  "name": "Koraput",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Malkangiri",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.127504",
+  "name": "Malkangiri",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Mayurbhanj",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.145891",
+  "name": "Mayurbhanj",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Nabarangpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.167312",
+  "name": "Nabarangpur",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Nayagarh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.189086",
+  "name": "Nayagarh",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Nuapada",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.208606",
+  "name": "Nuapada",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Puri",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.226207",
+  "name": "Puri",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Rayagada",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.255140",
+  "name": "Rayagada",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Sambalpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.285284",
+  "name": "Sambalpur",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Sonepur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.314907",
+  "name": "Sonepur",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Sundargarh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.337429",
+  "name": "Sundargarh",
+  "state": "Odisha"
+ },
+ {
+  "district_name": "Amritsar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.363974",
+  "name": "Amritsar",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Barnala",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.378467",
+  "name": "Barnala",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Bathinda",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.393249",
+  "name": "Bathinda",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Faridkot",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.406445",
+  "name": "Faridkot",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Fatehgarh Sahib",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.419082",
+  "name": "Fatehgarh Sahib",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Ferozepur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.430531",
+  "name": "Ferozepur",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Gurdaspur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.444447",
+  "name": "Gurdaspur",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Hoshiarpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.458126",
+  "name": "Hoshiarpur",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Jalandhar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.472504",
+  "name": "Jalandhar",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Kapurthala",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.486180",
+  "name": "Kapurthala",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Mansa",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.497317",
+  "name": "Mansa",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Mohali",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.526524",
+  "name": "Mohali",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Muktsar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.546518",
+  "name": "Muktsar",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Nawanshahr",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.572475",
+  "name": "Nawanshahr",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Rupnagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.608431",
+  "name": "Rupnagar",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Sangrur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.626041",
+  "name": "Sangrur",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Sri Muktsar Sahib",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.643465",
+  "name": "Sri Muktsar Sahib",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Tarn Taran",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.663844",
+  "name": "Tarn Taran",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Alwar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.705107",
+  "name": "Alwar",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Banswara",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.723433",
+  "name": "Banswara",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Baran",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.742554",
+  "name": "Baran",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Barmer",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.762817",
+  "name": "Barmer",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Bharatpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.784014",
+  "name": "Bharatpur",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Bhilwara",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.801873",
+  "name": "Bhilwara",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Bikaner",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.819413",
+  "name": "Bikaner",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Bundi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.837905",
+  "name": "Bundi",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Chittorgarh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.855096",
+  "name": "Chittorgarh",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Churu",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.871186",
+  "name": "Churu",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Dausa",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.890500",
+  "name": "Dausa",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Dhaulpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.906581",
+  "name": "Dhaulpur",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Jaipur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.921875",
+  "name": "Jaipur",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Jaisalmer",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.937513",
+  "name": "Jaisalmer",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Jalore",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.955974",
+  "name": "Jalore",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Jhalawar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.974303",
+  "name": "Jhalawar",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Jhunjhunu",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.995503",
+  "name": "Jhunjhunu",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Jodhpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.015300",
+  "name": "Jodhpur",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Karauli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.036109",
+  "name": "Karauli",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Kota",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.054456",
+  "name": "Kota",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Nagaur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.073903",
+  "name": "Nagaur",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Pali",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.095881",
+  "name": "Pali",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Rajsamand",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.124211",
+  "name": "Rajsamand",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Sawai Madhopur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.141099",
+  "name": "Sawai Madhopur",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Sikar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.159004",
+  "name": "Sikar",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Sirohi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.179194",
+  "name": "Sirohi",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Tonk",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.201806",
+  "name": "Tonk",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Udaipur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.219741",
+  "name": "Udaipur",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "East Sikkim",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.236783",
+  "name": "East Sikkim",
+  "state": "Sikkim"
+ },
+ {
+  "district_name": "North Sikkim",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.254070",
+  "name": "North Sikkim",
+  "state": "Sikkim"
+ },
+ {
+  "district_name": "South Sikkim",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.273473",
+  "name": "South Sikkim",
+  "state": "Sikkim"
+ },
+ {
+  "district_name": "West Sikkim",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.294378",
+  "name": "West Sikkim",
+  "state": "Sikkim"
+ },
+ {
+  "district_name": "Chennai",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.311265",
+  "name": "Chennai",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Coimbatore",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.328388",
+  "name": "Coimbatore",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Cuddalore",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.344815",
+  "name": "Cuddalore",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Dharmapuri",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.383783",
+  "name": "Dharmapuri",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Dindigul",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.417466",
+  "name": "Dindigul",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Erode",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.453277",
+  "name": "Erode",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Kanchipuram",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.473137",
+  "name": "Kanchipuram",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Kanyakumari",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.496329",
+  "name": "Kanyakumari",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Karur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.514329",
+  "name": "Karur",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Krishnagiri",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.534769",
+  "name": "Krishnagiri",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Nagapattinam",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.574755",
+  "name": "Nagapattinam",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Namakkal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.592710",
+  "name": "Namakkal",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Perambalur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.614687",
+  "name": "Perambalur",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Pudukkottai",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.632212",
+  "name": "Pudukkottai",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Ramanathapuram",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.650591",
+  "name": "Ramanathapuram",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Salem",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.669337",
+  "name": "Salem",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Sivaganga",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.688550",
+  "name": "Sivaganga",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Thanjavur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.706046",
+  "name": "Thanjavur",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Theni",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.722871",
+  "name": "Theni",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Tiruchirappalli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.738976",
+  "name": "Tiruchirappalli",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Tirunelveli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.755358",
+  "name": "Tirunelveli",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Tirupur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.771616",
+  "name": "Tirupur",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Tiruvallur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.788613",
+  "name": "Tiruvallur",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Tiruvannamalai",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.810184",
+  "name": "Tiruvannamalai",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Vellore",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.828546",
+  "name": "Vellore",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Viluppuram",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.849251",
+  "name": "Viluppuram",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Virudhunagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.866409",
+  "name": "Virudhunagar",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Bhadradri Kothagudem",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.909572",
+  "name": "Bhadradri Kothagudem",
+  "state": "Telangana"
+ },
+ {
+  "district_name": "Jagtial",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.944515",
+  "name": "Jagtial",
+  "state": "Telangana"
+ },
+ {
+  "district_name": "Jangaon",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.963057",
+  "name": "Jangaon",
+  "state": "Telangana"
+ },
+ {
+  "district_name": "Jogulamba Gadwal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.000998",
+  "name": "Jogulamba Gadwal",
+  "state": "Telangana"
+ },
+ {
+  "district_name": "Kamareddy",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.026384",
+  "name": "Kamareddy",
+  "state": "Telangana"
+ },
+ {
+  "district_name": "Mahabubabad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.076483",
+  "name": "Mahabubabad",
+  "state": "Telangana"
+ },
+ {
+  "district_name": "Mancherial",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.109772",
+  "name": "Mancherial",
+  "state": "Telangana"
+ },
+ {
+  "district_name": "Medchal-Malkajgiri",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.143242",
+  "name": "Medchal-Malkajgiri",
+  "state": "Telangana"
+ },
+ {
+  "district_name": "Nagarkurnool",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.160956",
+  "name": "Nagarkurnool",
+  "state": "Telangana"
+ },
+ {
+  "district_name": "Nirmal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.193948",
+  "name": "Nirmal",
+  "state": "Telangana"
+ },
+ {
+  "district_name": "Rangareddy",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.265223",
+  "name": "Rangareddy",
+  "state": "Telangana"
+ },
+ {
+  "district_name": "Siddipet",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.281866",
+  "name": "Siddipet",
+  "state": "Telangana"
+ },
+ {
+  "district_name": "Warangal Rural",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.301589",
+  "name": "Warangal Rural",
+  "state": "Telangana"
+ },
+ {
+  "district_name": "Warangal Urban",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.326648",
+  "name": "Warangal Urban",
+  "state": "Telangana"
+ },
+ {
+  "district_name": "Wanaparthy",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.344834",
+  "name": "Wanaparthy",
+  "state": "Telangana"
+ },
+ {
+  "district_name": "Yadadri Bhuvanagiri",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.365236",
+  "name": "Yadadri Bhuvanagiri",
+  "state": "Telangana"
+ },
+ {
+  "district_name": "Dhalai",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.384350",
+  "name": "Dhalai",
+  "state": "Tripura"
+ },
+ {
+  "district_name": "Gomati",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.405181",
+  "name": "Gomati",
+  "state": "Tripura"
+ },
+ {
+  "district_name": "Khowai",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.428177",
+  "name": "Khowai",
+  "state": "Tripura"
+ },
+ {
+  "district_name": "North Tripura",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.451358",
+  "name": "North Tripura",
+  "state": "Tripura"
+ },
+ {
+  "district_name": "Sepahijala",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.482371",
+  "name": "Sepahijala",
+  "state": "Tripura"
+ },
+ {
+  "district_name": "South Tripura",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.520471",
+  "name": "South Tripura",
+  "state": "Tripura"
+ },
+ {
+  "district_name": "Unakoti",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.547593",
+  "name": "Unakoti",
+  "state": "Tripura"
+ },
+ {
+  "district_name": "West Tripura",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.564383",
+  "name": "West Tripura",
+  "state": "Tripura"
+ },
+ {
+  "district_name": "Agra",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.581638",
+  "name": "Agra",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Aligarh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.599836",
+  "name": "Aligarh",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Ambedkar Nagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.617630",
+  "name": "Ambedkar Nagar",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Amethi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.637335",
+  "name": "Amethi",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Amroha",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.657576",
+  "name": "Amroha",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Auraiya",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.676476",
+  "name": "Auraiya",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Azamgarh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.696962",
+  "name": "Azamgarh",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Bahraich",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.715924",
+  "name": "Bahraich",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Ballia",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.739106",
+  "name": "Ballia",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Banda",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.778078",
+  "name": "Banda",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Barabanki",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.797156",
+  "name": "Barabanki",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Bareilly",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.825686",
+  "name": "Bareilly",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Basti",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.845797",
+  "name": "Basti",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Bijnor",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.863576",
+  "name": "Bijnor",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Budaun",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.880490",
+  "name": "Budaun",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Bulandshahr",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.897640",
+  "name": "Bulandshahr",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Chandauli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.915434",
+  "name": "Chandauli",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Chitrakoot",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.938370",
+  "name": "Chitrakoot",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Deoria",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.957153",
+  "name": "Deoria",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Etah",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.974217",
+  "name": "Etah",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Etawah",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:17.990677",
+  "name": "Etawah",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Farrukhabad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.008049",
+  "name": "Farrukhabad",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Fatehpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.024495",
+  "name": "Fatehpur",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Firozabad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.040603",
+  "name": "Firozabad",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Gautam Buddh Nagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.058819",
+  "name": "Gautam Buddh Nagar",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Ghaziabad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.078558",
+  "name": "Ghaziabad",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Ghazipur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.095915",
+  "name": "Ghazipur",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Gorakhpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.113822",
+  "name": "Gorakhpur",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Hapur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.156241",
+  "name": "Hapur",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Hardoi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.173045",
+  "name": "Hardoi",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Hathras",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.190244",
+  "name": "Hathras",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Jalaun",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.209616",
+  "name": "Jalaun",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Jalpaiguri",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.227544",
+  "name": "Jalpaiguri",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Jaunpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.245626",
+  "name": "Jaunpur",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Kannauj",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.289606",
+  "name": "Kannauj",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Kanpur Dehat",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.310471",
+  "name": "Kanpur Dehat",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Kanpur Nagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.328867",
+  "name": "Kanpur Nagar",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Kheri",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.345030",
+  "name": "Kheri",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Lucknow",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.363571",
+  "name": "Lucknow",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Mau",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.379486",
+  "name": "Mau",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Meerut",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.396607",
+  "name": "Meerut",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Mirzapur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.415326",
+  "name": "Mirzapur",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Moradabad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.431758",
+  "name": "Moradabad",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Pilibhit",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.485502",
+  "name": "Pilibhit",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Pratapgarh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.513529",
+  "name": "Pratapgarh",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Raebareli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.548024",
+  "name": "Raebareli",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Rampur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.607957",
+  "name": "Rampur",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Saharanpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.646481",
+  "name": "Saharanpur",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Sant Kabir Nagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.690537",
+  "name": "Sant Kabir Nagar",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Sant Ravidas Nagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.727100",
+  "name": "Sant Ravidas Nagar",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Shahjahanpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.743078",
+  "name": "Shahjahanpur",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Shamli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.756200",
+  "name": "Shamli",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Shravasti",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.769857",
+  "name": "Shravasti",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Siddharthnagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.788334",
+  "name": "Siddharthnagar",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Sitapur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.803342",
+  "name": "Sitapur",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Sultanpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.815655",
+  "name": "Sultanpur",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Unnao",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.829897",
+  "name": "Unnao",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Varanasi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.843955",
+  "name": "Varanasi",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Almora",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.857289",
+  "name": "Almora",
+  "state": "Uttarakhand"
+ },
+ {
+  "district_name": "Bageshwar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.870354",
+  "name": "Bageshwar",
+  "state": "Uttarakhand"
+ },
+ {
+  "district_name": "Chamoli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.882452",
+  "name": "Chamoli",
+  "state": "Uttarakhand"
+ },
+ {
+  "district_name": "Champawat",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.896338",
+  "name": "Champawat",
+  "state": "Uttarakhand"
+ },
+ {
+  "district_name": "Dehradun",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.910135",
+  "name": "Dehradun",
+  "state": "Uttarakhand"
+ },
+ {
+  "district_name": "Haridwar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.924272",
+  "name": "Haridwar",
+  "state": "Uttarakhand"
+ },
+ {
+  "district_name": "Nainital",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.937357",
+  "name": "Nainital",
+  "state": "Uttarakhand"
+ },
+ {
+  "district_name": "Pauri Garhwal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.950541",
+  "name": "Pauri Garhwal",
+  "state": "Uttarakhand"
+ },
+ {
+  "district_name": "Pithoragarh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.965198",
+  "name": "Pithoragarh",
+  "state": "Uttarakhand"
+ },
+ {
+  "district_name": "Rudraprayag",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.996774",
+  "name": "Rudraprayag",
+  "state": "Uttarakhand"
+ },
+ {
+  "district_name": "Tehri Garhwal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.027107",
+  "name": "Tehri Garhwal",
+  "state": "Uttarakhand"
+ },
+ {
+  "district_name": "Udham Singh Nagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.058236",
+  "name": "Udham Singh Nagar",
+  "state": "Uttarakhand"
+ },
+ {
+  "district_name": "Uttarkashi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.094037",
+  "name": "Uttarkashi",
+  "state": "Uttarakhand"
+ },
+ {
+  "district_name": "Alipurduar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.122735",
+  "name": "Alipurduar",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "Bankura",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.151878",
+  "name": "Bankura",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "Bardhaman",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.174403",
+  "name": "Bardhaman",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "Birbhum",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.193839",
+  "name": "Birbhum",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "Dakshin Dinajpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.209106",
+  "name": "Dakshin Dinajpur",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "Darjeeling",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.225893",
+  "name": "Darjeeling",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "Hooghly",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.242400",
+  "name": "Hooghly",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "Howrah",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.256773",
+  "name": "Howrah",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "Jhargram",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.280499",
+  "name": "Jhargram",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "Jitpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.295732",
+  "name": "Jitpur",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "Kolkata",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.309034",
+  "name": "Kolkata",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "Malda",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.322019",
+  "name": "Malda",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "Murshidabad",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.332687",
+  "name": "Murshidabad",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "Nadia",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.347000",
+  "name": "Nadia",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "North 24 Parganas",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.363052",
+  "name": "North 24 Parganas",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "Purba Medinipur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.376905",
+  "name": "Purba Medinipur",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "Purulia",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.389574",
+  "name": "Purulia",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "South 24 Parganas",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.403761",
+  "name": "South 24 Parganas",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "Uttar Dinajpur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.415608",
+  "name": "Uttar Dinajpur",
+  "state": "West Bengal"
+ },
+ {
+  "district_name": "North and Middle Andaman",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.430321",
+  "name": "North and Middle Andaman",
+  "state": "Andaman and Nicobar Islands"
+ },
+ {
+  "district_name": "South Andaman",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.449756",
+  "name": "South Andaman",
+  "state": "Andaman and Nicobar Islands"
+ },
+ {
+  "district_name": "Nicobar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.477869",
+  "name": "Nicobar",
+  "state": "Andaman and Nicobar Islands"
+ },
+ {
+  "district_name": "Dadra",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.509482",
+  "name": "Dadra",
+  "state": "Dadra and Nagar Haveli"
+ },
+ {
+  "district_name": "Nagar Haveli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.535588",
+  "name": "Nagar Haveli",
+  "state": "Dadra and Nagar Haveli"
+ },
+ {
+  "district_name": "Central Delhi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.565172",
+  "name": "Central Delhi",
+  "state": "Delhi"
+ },
+ {
+  "district_name": "East Delhi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.596752",
+  "name": "East Delhi",
+  "state": "Delhi"
+ },
+ {
+  "district_name": "New Delhi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.629507",
+  "name": "New Delhi",
+  "state": "Delhi"
+ },
+ {
+  "district_name": "North Delhi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.659180",
+  "name": "North Delhi",
+  "state": "Delhi"
+ },
+ {
+  "district_name": "North East Delhi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.687465",
+  "name": "North East Delhi",
+  "state": "Delhi"
+ },
+ {
+  "district_name": "North West Delhi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.701272",
+  "name": "North West Delhi",
+  "state": "Delhi"
+ },
+ {
+  "district_name": "South Delhi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.716322",
+  "name": "South Delhi",
+  "state": "Delhi"
+ },
+ {
+  "district_name": "South East Delhi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.732717",
+  "name": "South East Delhi",
+  "state": "Delhi"
+ },
+ {
+  "district_name": "South West Delhi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.762367",
+  "name": "South West Delhi",
+  "state": "Delhi"
+ },
+ {
+  "district_name": "Shahdara",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.789468",
+  "name": "Shahdara",
+  "state": "Delhi"
+ },
+ {
+  "district_name": "West Delhi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.801085",
+  "name": "West Delhi",
+  "state": "Delhi"
+ },
+ {
+  "district_name": "Jammu",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.816311",
+  "name": "Jammu",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Samba",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.830882",
+  "name": "Samba",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Kathua",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.843947",
+  "name": "Kathua",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Udhampur",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.858556",
+  "name": "Udhampur",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Reasi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.870602",
+  "name": "Reasi",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Doda",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.882140",
+  "name": "Doda",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Ramban",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.895476",
+  "name": "Ramban",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Anantnag",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.908686",
+  "name": "Anantnag",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Kishtwar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.923310",
+  "name": "Kishtwar",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Poonch",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.936801",
+  "name": "Poonch",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Rajouri",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.950395",
+  "name": "Rajouri",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Ganderbal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.994265",
+  "name": "Ganderbal",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Budgam",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.008251",
+  "name": "Budgam",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Pulwama",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.025332",
+  "name": "Pulwama",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Kulgam",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.040113",
+  "name": "Kulgam",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Baramulla",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.069343",
+  "name": "Baramulla",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Bandipora",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.081011",
+  "name": "Bandipora",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Shopian",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.095463",
+  "name": "Shopian",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Leh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.110285",
+  "name": "Leh",
+  "state": "Ladakh"
+ },
+ {
+  "district_name": "Kargil",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.128446",
+  "name": "Kargil",
+  "state": "Ladakh"
+ },
+ {
+  "district_name": "Kavaratti",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.142188",
+  "name": "Kavaratti",
+  "state": "Lakshadweep"
+ },
+ {
+  "district_name": "Agatti",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.155569",
+  "name": "Agatti",
+  "state": "Lakshadweep"
+ },
+ {
+  "district_name": "Amini",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.167378",
+  "name": "Amini",
+  "state": "Lakshadweep"
+ },
+ {
+  "district_name": "Androth",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.179692",
+  "name": "Androth",
+  "state": "Lakshadweep"
+ },
+ {
+  "district_name": "Kalapeni",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.193511",
+  "name": "Kalapeni",
+  "state": "Lakshadweep"
+ },
+ {
+  "district_name": "Suheli",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.207200",
+  "name": "Suheli",
+  "state": "Lakshadweep"
+ },
+ {
+  "district_name": "Minicoy",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.221977",
+  "name": "Minicoy",
+  "state": "Lakshadweep"
+ },
+ {
+  "district_name": "Puducherry",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.235599",
+  "name": "Puducherry",
+  "state": "Puducherry"
+ },
+ {
+  "district_name": "Karaikal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.248051",
+  "name": "Karaikal",
+  "state": "Puducherry"
+ },
+ {
+  "district_name": "Mahe",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.261455",
+  "name": "Mahe",
+  "state": "Puducherry"
+ },
+ {
+  "district_name": "Yanam",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:20.275898",
+  "name": "Yanam",
+  "state": "Puducherry"
+ },
+ {
+  "_liked_by": "[\"Administrator\"]",
+  "district_name": "Ambala",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.388435",
+  "name": "Ambala",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Moga",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.510288",
+  "name": "Moga",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Madurai",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:16.555379",
+  "name": "Madurai",
+  "state": "Tamil Nadu"
+ },
+ {
+  "district_name": "Srinagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:19.979896",
+  "name": "Srinagar",
+  "state": "Jammu and Kashmir"
+ },
+ {
+  "district_name": "Patiala",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.591183",
+  "name": "Patiala",
+  "state": "Punjab"
+ },
+ {
+  "district_name": "Mahabubnagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:09.235073",
+  "name": "Mahabubnagar",
+  "state": "Andhra Pradesh"
+ },
+ {
+  "district_name": "Muzaffarnagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.449472",
+  "name": "Muzaffarnagar",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Ajmer",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:15.683862",
+  "name": "Ajmer",
+  "state": "Rajasthan"
+ },
+ {
+  "district_name": "Yamunanagar",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.975734",
+  "name": "Yamunanagar",
+  "state": "Haryana"
+ },
+ {
+  "district_name": "Jhansi",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:18.270096",
+  "name": "Jhansi",
+  "state": "Uttar Pradesh"
+ },
+ {
+  "district_name": "Karnal",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-07 13:36:08.769447",
+  "name": "Karnal",
+  "state": "Haryana"
+ }
+]
