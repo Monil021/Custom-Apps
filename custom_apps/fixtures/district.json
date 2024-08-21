@@ -5168,7 +5168,6 @@
   "state": "Puducherry"
  },
  {
-  "_liked_by": "[\"Administrator\"]",
   "district_name": "Ambala",
   "docstatus": 0,
   "doctype": "District",
@@ -5255,5 +5254,13 @@
   "modified": "2024-08-07 13:36:08.769447",
   "name": "Karnal",
   "state": "Haryana"
+ },
+ {
+  "district_name": "Chandigarh",
+  "docstatus": 0,
+  "doctype": "District",
+  "modified": "2024-08-21 13:32:52.416461",
+  "name": "Chandigarh",
+  "state": "Chandigarh"
  }
 ]
