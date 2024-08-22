@@ -48,6 +48,12 @@
   "gst_status1",
   "gst_category1",
   "gst_no1",
+  "msme_details_section",
+  "yes_or_no",
+  "column_break_wvby",
+  "msme_no",
+  "type_microsmallmedium",
+  "amended_from",
   "bank_details_section",
   "yes_or_no1",
   "bank_name",
@@ -56,12 +62,10 @@
   "account_name",
   "account_no",
   "account_type",
-  "msme_details_section",
-  "yes_or_no",
-  "column_break_wvby",
-  "msme_no",
-  "type_microsmallmedium",
-  "amended_from"
+  "for_head_office_reference_section",
+  "supplier_code_generated",
+  "supplier_code",
+  "remarks"
  ],
  "fields": [
   {
@@ -377,13 +381,12 @@
    "mandatory_depends_on": "eval:doc.yes_or_no=='Yes'"
   },
   {
-   "default": "Small",
    "depends_on": "eval:doc.yes_or_no=='Yes'",
    "fieldname": "type_microsmallmedium",
    "fieldtype": "Select",
    "label": "MSME Type",
    "mandatory_depends_on": "eval:doc.yes_or_no=='Yes'",
-   "options": "Micro\nSmall\nMedium"
+   "options": "\nMicro\nSmall\nMedium"
   },
   {
    "fieldname": "amended_from",
@@ -394,12 +397,38 @@
    "print_hide": 1,
    "read_only": 1,
    "search_index": 1
+  },
+  {
+   "fieldname": "for_head_office_reference_section",
+   "fieldtype": "Section Break",
+   "label": "For Head Office Reference"
+  },
+  {
+   "depends_on": "eval:doc.supplier_code_generated=='Yes';",
+   "fieldname": "supplier_code",
+   "fieldtype": "Data",
+   "label": "Supplier Code",
+   "mandatory_depends_on": "eval:doc.supplier_code_generated=='Yes';",
+   "unique": 1
+  },
+  {
+   "fieldname": "supplier_code_generated",
+   "fieldtype": "Select",
+   "label": "Supplier Code Generated",
+   "options": "\nYes\nNo"
+  },
+  {
+   "depends_on": "eval:doc.supplier_code_generated =='No';",
+   "fieldname": "remarks",
+   "fieldtype": "Data",
+   "label": "Remarks",
+   "mandatory_depends_on": "eval:doc.supplier_code_generated=='No';"
   }
  ],
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2024-08-16 14:01:30.108766",
+ "modified": "2024-08-22 16:37:36.289752",
  "modified_by": "Administrator",
  "module": "Custom Apps",
  "name": "Supplier Request Form",

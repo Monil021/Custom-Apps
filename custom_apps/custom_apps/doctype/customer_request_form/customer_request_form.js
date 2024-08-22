@@ -146,7 +146,27 @@ frappe.ui.form.on('Customer Request Form', {
             // Stop the save process
             frappe.validated = false;
         }
-    },                           
+    },
+    customer_code_generated: function(frm){
+        if(frm.doc.customer_code_generated == 'No' && frm.doc.customer_code) {
+            frm.set_value('customer_code', null);
+            frm.refresh_field('customer_code');
+        }
+        if(frm.doc.customer_code_generated == 'Yes' && frm.doc.remarks) {
+            frm.set_value('remarks', null);
+            frm.refresh_field('remarks');
+        }
+    },
+    // before_submit: function(frm) {
+    //     if(frm.doc.supplier_code_generated === 'Yes' && frm.doc.supplier_code) {
+    //         // Conditions are met; allow form submission
+    //         // No need to manually enable the submit button
+    //     } else {
+    //         // Prevent submission and show an error message
+    //         frappe.msgprint(__('Supplier code is either not generated or missing.'));
+    //         validated = false; // This prevents the form from being submitted
+    //     }    
+    // },                           
     gst_no: function(frm) {
         // if(!frm.doc.gst_no || !frm.doc.statefrm){
         //     frm.toggle_display('gst_details_section', false);

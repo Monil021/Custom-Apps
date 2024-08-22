@@ -1,6 +1,7 @@
 {
  "actions": [],
  "allow_rename": 1,
+ "autoname": "CR00000000.#",
  "creation": "2024-06-20 15:08:09.339334",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -45,8 +46,15 @@
   "gst_category",
   "gst_no",
   "column_break_avgi",
-  "pan",
-  "gst_address",
+  "gst_status1",
+  "gst_category1",
+  "gst_no1",
+  "msme_details_section",
+  "yes_or_no",
+  "column_break_zico",
+  "msme_no",
+  "type_microsmallmedium",
+  "amended_from",
   "bank_details_section",
   "yes_or_no1",
   "bank_name",
@@ -55,12 +63,10 @@
   "column_break_qzeg",
   "account_name",
   "account_no",
-  "msme_details_section",
-  "yes_or_no",
-  "column_break_zico",
-  "msme_no",
-  "type_microsmallmedium",
-  "amended_from"
+  "for_head_office_reference_section",
+  "customer_code_generated",
+  "customer_code",
+  "remarks"
  ],
  "fields": [
   {
@@ -293,22 +299,12 @@
    "fieldtype": "Column Break"
   },
   {
-   "fieldname": "pan",
-   "fieldtype": "Data",
-   "in_list_view": 1,
-   "label": "PAN"
-  },
-  {
-   "fieldname": "gst_address",
-   "fieldtype": "Small Text",
-   "label": "GST Address"
-  },
-  {
    "fieldname": "bank_details_section",
    "fieldtype": "Section Break",
    "label": "Bank Details"
   },
   {
+   "default": "No",
    "fieldname": "yes_or_no1",
    "fieldtype": "Select",
    "label": "Yes or No",
@@ -391,15 +387,61 @@
    "print_hide": 1,
    "read_only": 1,
    "search_index": 1
+  },
+  {
+   "fieldname": "gst_status1",
+   "fieldtype": "Select",
+   "label": "GST Status(Address 2)",
+   "options": "\nRegistered\nUnregistered\nSuspended\nCancelled"
+  },
+  {
+   "fieldname": "gst_category1",
+   "fieldtype": "Select",
+   "label": "GST Category(Address 2)",
+   "options": "\nRegistered Regular\nRegistered Composition\nUnregistered\nSEZ\nOverseas\nDeemed Export\nUIN Holders\nTax Deductor\nTax Collector"
+  },
+  {
+   "fieldname": "gst_no1",
+   "fieldtype": "Data",
+   "label": "GST No.(Address 2)"
+  },
+  {
+   "fieldname": "for_head_office_reference_section",
+   "fieldtype": "Section Break",
+   "label": "For Head Office Reference"
+  },
+  {
+   "fieldname": "customer_code_generated",
+   "fieldtype": "Select",
+   "label": "Customer Code Generated",
+   "options": "\nYes\nNo"
+  },
+  {
+   "depends_on": "eval:doc.customer_code_generated=='Yes'",
+   "fieldname": "customer_code",
+   "fieldtype": "Data",
+   "in_global_search": 1,
+   "in_list_view": 1,
+   "label": "Customer Code",
+   "mandatory_depends_on": "eval:doc.customer_code_generated=='Yes'",
+   "unique": 1
+  },
+  {
+   "depends_on": "eval:doc.customer_code_generated=='No';",
+   "fieldname": "remarks",
+   "fieldtype": "Data",
+   "label": "Remarks",
+   "mandatory_depends_on": "eval:doc.customer_code_generated=='No';"
   }
  ],
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2024-08-16 14:10:49.275069",
+ "modified": "2024-08-22 16:37:22.364151",
  "modified_by": "Administrator",
  "module": "Custom Apps",
  "name": "Customer Request Form",
+ "naming_rule": "By \"Naming Series\" field",
  "owner": "Administrator",
  "permissions": [
   {
