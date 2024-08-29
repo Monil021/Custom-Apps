@@ -334,6 +334,12 @@ frappe.ui.form.on('Supplier Request Form', {
             frm.trigger('gst_no');
         }
     },
+    after_cancel: function(frm){
+        frm.set_value('supplier_code_generated', null);
+        frm.refresh_field('supplier_code_generated');
+        frm.set_value('remarks', null);
+        frm.refresh_field('remarks');
+    },
     state1: function(frm) {
         // Trigger validation on state change if GST number is already entered
         if (frm.doc.gst_no1 && frm.doc.state1){
