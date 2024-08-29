@@ -177,9 +177,10 @@ frappe.ui.form.on('Customer Request Form', {
             
             if (gstRegex.test(frm.doc.gst_no)) {
                 var gstStateCode = frm.doc.gst_no.substring(0, 2); // Extract state code from GST number
-                // var x = frm.doc.gst_no.substring(2,12);
-                // frm.set_value('pan',x);
-
+                if(frm.doc.gst_status=='Registered' && frm.doc.gst_category=='Registered Regular'){
+                var x = frm.doc.gst_no.substring(2,12);
+                frm.set_value('pan',x);
+                }
 
                 // var selectedStateCode = frm.doc.statefrm; // Extract state code from selected state
                 // frappe.msgprint('Entered here!!!!!!!');
