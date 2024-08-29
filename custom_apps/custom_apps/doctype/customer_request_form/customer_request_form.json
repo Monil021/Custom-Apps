@@ -45,6 +45,7 @@
   "gst_status",
   "gst_category",
   "gst_no",
+  "pan",
   "column_break_avgi",
   "gst_status1",
   "gst_category1",
@@ -54,7 +55,6 @@
   "column_break_zico",
   "msme_no",
   "type_microsmallmedium",
-  "amended_from",
   "bank_details_section",
   "yes_or_no1",
   "bank_name",
@@ -67,7 +67,8 @@
   "for_head_office_reference_section",
   "customer_code_generated",
   "customer_code",
-  "remarks"
+  "remarks",
+  "amended_from"
  ],
  "fields": [
   {
@@ -380,16 +381,6 @@
    "options": "Micro\nSmall\nMedium"
   },
   {
-   "fieldname": "amended_from",
-   "fieldtype": "Link",
-   "label": "Amended From",
-   "no_copy": 1,
-   "options": "Customer Request Form",
-   "print_hide": 1,
-   "read_only": 1,
-   "search_index": 1
-  },
-  {
    "fieldname": "gst_status1",
    "fieldtype": "Select",
    "label": "GST Status(Address 2)",
@@ -437,13 +428,29 @@
   {
    "fieldname": "customer_credit_limit",
    "fieldtype": "Data",
-   "label": "Customer Credit Limit"
+   "label": "Customer Credit Limit",
+   "reqd": 1
+  },
+  {
+   "fieldname": "pan",
+   "fieldtype": "Data",
+   "label": "PAN"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Customer Request Form",
+   "print_hide": 1,
+   "read_only": 1,
+   "search_index": 1
   }
  ],
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2024-08-29 19:17:19.487992",
+ "modified": "2024-08-29 19:26:14.212776",
  "modified_by": "Administrator",
  "module": "Custom Apps",
  "name": "Customer Request Form",
