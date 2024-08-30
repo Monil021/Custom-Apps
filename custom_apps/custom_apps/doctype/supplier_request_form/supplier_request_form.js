@@ -334,6 +334,14 @@ frappe.ui.form.on('Supplier Request Form', {
             frm.trigger('gst_no');
         }
     },
+   before_submit: function(frm) {
+    if (!frm.doc.supplier_code_generated) {
+        // Prevent form submission
+        frappe.msgprint(__('Supplier Code Information Required To Submit The Document.'));
+        frappe.validated = false;
+    }
+}
+,
     after_cancel: function(frm){
         frm.set_value('supplier_code_generated', null);
         frm.refresh_field('supplier_code_generated');
