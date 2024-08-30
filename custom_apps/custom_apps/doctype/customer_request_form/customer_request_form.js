@@ -148,12 +148,18 @@ frappe.ui.form.on('Customer Request Form', {
         }
     },
     customer_code_generated: function(frm){
-        if(frm.doc.customer_code_generated == 'No' && frm.doc.customer_code) {
+        if(frm.doc.customer_code_generated == 'No' && frm.doc.customer_code || frm.doc.remarks) {
             frm.set_value('customer_code', null);
             frm.refresh_field('customer_code');
+            frm.set_value('remarks', null);
+            frm.refresh_field('remarks');
         }
         if(frm.doc.customer_code_generated == 'Yes' && frm.doc.remarks) {
             frm.set_value('remarks', null);
+            frm.refresh_field('remarks');
+        }
+        if(frm.doc.customer_code_generated == 'Already Created'){
+            frm.set_value('remarks', 'Already Created');
             frm.refresh_field('remarks');
         }
     },
@@ -223,9 +229,15 @@ frappe.ui.form.on('Customer Request Form', {
                 };
 
                 // Check if the entered GST number matches the GST number for the selected state
-                if (stateToGSTMapping[frm.doc.statefrm] !== gstStateCode) {
-                    frappe.throw('GST number does not match with selected state. Please correct it.')
-                } else {
+               if (stateToGSTMapping[frm.doc.statefrm] !== gstStateCode) {
+                    frm.set_value('gst_no', null);
+                    frm.refresh_field('gst_no');
+                    frm.set_value('pan', null);
+                    frm.refresh_field('pan');
+                    frappe.throw('GST number does not match with selected state. Please correct it.');
+                   
+               }
+             else {
                     frappe.show_alert('GST Number is Valid and Matches with State Code!');
                     // frm.toggle_display('gst_details_section', true);
                     // frm.set_value('gst_number', frm.doc.gst_no);
@@ -233,7 +245,12 @@ frappe.ui.form.on('Customer Request Form', {
             }
             else {
                 setTimeout(function() {
+                    frm.set_value('gst_no', null);
+                    frm.refresh_field('gst_no');
+                    frm.set_value('pan', null);
+                    frm.refresh_field('pan');
                     frappe.msgprint('Invalid GST number format. Please enter a valid GST number.');
+                    
                 }, 2000);
             }
         }
@@ -297,7 +314,14 @@ frappe.ui.form.on('Customer Request Form', {
 
                 // Check if the entered GST number matches the GST number for the selected state
                 if (stateToGSTMapping[frm.doc.state1] !== gstStateCode) {
+                    frm.set_value('gst_no1', null);
+                    frm.refresh_field('gst_no1');
+                    frm.set_value('pan', null);
+                    frm.refresh_field('pan');
+                    
                     frappe.throw('GST number does not match with selected state. Please correct it.')
+                    
+                    
                 } else {
                     frappe.show_alert('GST Number is Valid and Matches with State Code!');
                     // frm.toggle_display('gst_details_section', true);
@@ -306,7 +330,12 @@ frappe.ui.form.on('Customer Request Form', {
             }
             else {
                 setTimeout(function() {
+                    frm.set_value('gst_no1', null);
+                    frm.refresh_field('gst_no1');
+                    frm.set_value('pan', null);
+                    frm.refresh_field('pan');
                     frappe.msgprint('Invalid GST number format. Please enter a valid GST number.');
+                 
                 }, 2000);
             }
         }
