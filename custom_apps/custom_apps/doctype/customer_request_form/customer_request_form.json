@@ -1,8 +1,7 @@
 {
  "actions": [],
- "allow_rename": 1,
- "autoname": "CR00000000.#",
- "creation": "2024-08-29 19:51:36.825551",
+ "autoname": "CR000000.###",
+ "creation": "2024-08-30 17:53:30.297998",
  "default_view": "List",
  "doctype": "DocType",
  "engine": "InnoDB",
@@ -10,9 +9,11 @@
   "customer_details_section",
   "customer_name",
   "customer_type",
+  "customer_credit_limit",
   "column_break_odcv",
   "customer_group",
   "old_customer_code",
+  "number_of_address_provided",
   "section_break_nqtw",
   "address_1",
   "address_type",
@@ -26,7 +27,6 @@
   "contact_person_name",
   "mail",
   "fax",
-  "preffered_billing_address",
   "add2",
   "address_2",
   "address_type1",
@@ -40,7 +40,6 @@
   "contact_person_name1",
   "mail_1",
   "fax1",
-  "preferred_shipping_address",
   "gst_details_section",
   "column_break_tasi",
   "gst_status",
@@ -51,7 +50,6 @@
   "gst_status1",
   "gst_category1",
   "gst_no1",
-  "customer_credit_limit",
   "msme_details_section",
   "yes_or_no",
   "column_break_zico",
@@ -84,6 +82,12 @@
    "reqd": 1
   },
   {
+   "fieldname": "customer_credit_limit",
+   "fieldtype": "Data",
+   "label": "Customer Credit Limit",
+   "reqd": 1
+  },
+  {
    "fieldname": "column_break_odcv",
    "fieldtype": "Column Break"
   },
@@ -100,6 +104,14 @@
    "label": "Old Customer Code"
   },
   {
+   "default": "1",
+   "fieldname": "number_of_address_provided",
+   "fieldtype": "Select",
+   "label": "Number Of Address Provided",
+   "options": "\n1\n2",
+   "reqd": 1
+  },
+  {
    "fieldname": "section_break_nqtw",
    "fieldtype": "Section Break",
    "label": "Address Details"
@@ -111,6 +123,7 @@
    "reqd": 1
   },
   {
+   "default": "Billing",
    "fieldname": "address_type",
    "fieldtype": "Select",
    "label": "Address Type",
@@ -176,90 +189,86 @@
    "label": "Fax"
   },
   {
-   "depends_on": "eval:doc.address_2",
-   "fieldname": "preffered_billing_address",
-   "fieldtype": "Select",
-   "label": "Preffered Billing Address",
-   "options": "\nAddress 1\nAddress2"
-  },
-  {
    "fieldname": "add2",
    "fieldtype": "Column Break"
   },
   {
+   "depends_on": "eval:doc.number_of_address_provided==2;",
    "fieldname": "address_2",
    "fieldtype": "Small Text",
    "label": "Address 2"
   },
   {
+   "default": "Billing",
+   "depends_on": "eval:doc.number_of_address_provided==2;",
    "fieldname": "address_type1",
    "fieldtype": "Select",
    "label": "Address Type",
-   "mandatory_depends_on": "eval:doc.address_2",
    "options": "\nBilling\nShipping\nOffice\nPersonal\nPlant\nPostal\nShop\nSubsidiary\nWarehouse\nCurrent\nPermanent\nOther"
   },
   {
+   "depends_on": "eval:doc.number_of_address_provided==2;eval:doc.number_of_address_provided==2;",
    "fieldname": "state1",
    "fieldtype": "Link",
    "label": "State",
-   "mandatory_depends_on": "eval:doc.address_2",
    "options": "State"
   },
   {
+   "depends_on": "eval:doc.number_of_address_provided==2;",
    "fieldname": "district1",
    "fieldtype": "Link",
    "label": "District",
    "link_filters": "[[\"District\",\"state\",\"=\",\"eval:doc.state1\"]]",
-   "mandatory_depends_on": "eval:doc.address_2",
    "options": "District"
   },
   {
+   "depends_on": "eval:doc.number_of_address_provided==2;",
    "fieldname": "citytown1",
    "fieldtype": "Data",
    "label": "City/Town"
   },
   {
+   "depends_on": "eval:doc.number_of_address_provided==2;",
    "fieldname": "pin_code1",
    "fieldtype": "Data",
    "label": "Pin Code"
   },
   {
+   "depends_on": "eval:doc.number_of_address_provided==2;",
    "fieldname": "country1",
    "fieldtype": "Link",
    "label": "Country",
    "options": "Country"
   },
   {
+   "depends_on": "eval:doc.number_of_address_provided==2;",
    "fieldname": "mobile_no_landline_no1",
    "fieldtype": "Data",
    "label": "Mobile No./ Landline No."
   },
   {
+   "depends_on": "eval:doc.number_of_address_provided==2;",
    "fieldname": "alternate_mobile_no1",
    "fieldtype": "Data",
    "label": "Alternate Mobile No."
   },
   {
+   "depends_on": "eval:doc.number_of_address_provided==2;",
    "fieldname": "contact_person_name1",
    "fieldtype": "Data",
    "label": "Contact Person Name"
   },
   {
+   "depends_on": "eval:doc.number_of_address_provided==2;",
    "fieldname": "mail_1",
    "fieldtype": "Data",
    "label": "Mail "
   },
   {
+   "depends_on": "eval:doc.number_of_address_provided==2;",
    "fieldname": "fax1",
    "fieldtype": "Data",
    "label": "Fax"
-  },
-  {
-   "depends_on": "eval:doc.address_2",
-   "fieldname": "preferred_shipping_address",
-   "fieldtype": "Select",
-   "label": "Preferred Shipping Address",
-   "options": "\nAddress 1\nAddress2"
   },
   {
    "fieldname": "gst_details_section",
@@ -274,52 +283,56 @@
    "fieldname": "gst_status",
    "fieldtype": "Select",
    "label": "GST Status",
-   "options": "\nRegistered\nUnregistered\nSuspended\nCancelled"
+   "options": "\nRegistered\nUnregistered\nSuspended\nCancelled",
+   "reqd": 1
   },
   {
+   "depends_on": "eval:doc.gst_status=='Registered' || doc.gst_status =='Suspended' || doc.gst_status == 'Cancelled';",
    "fieldname": "gst_category",
    "fieldtype": "Select",
    "label": "GST Category",
-   "mandatory_depends_on": "eval:doc.gst_status=='Registered'",
+   "mandatory_depends_on": "eval:doc.gst_status=='Registered' || doc.gst_status =='Suspended' || doc.gst_status == 'Cancelled';",
    "options": "\nRegistered Regular\nRegistered Composition\nUnregistered\nSEZ\nOverseas\nDeemed Export\nUIN Holders\nTax Deductor\nTax Collector"
   },
   {
+   "depends_on": "eval:doc.gst_status=='Registered' || doc.gst_status =='Suspended' || doc.gst_status == 'Cancelled';",
    "fieldname": "gst_no",
    "fieldtype": "Data",
    "label": "GST Number",
-   "mandatory_depends_on": "eval:doc.gst_status=='Registered'"
+   "mandatory_depends_on": "eval:doc.gst_status=='Registered' || doc.gst_status =='Suspended' || doc.gst_status == 'Cancelled';"
   },
   {
+   "depends_on": "eval:doc.gst_status=='Registered' || doc.gst_status =='Suspended' || doc.gst_status =='Cancelled' || doc.gst_status == 'Unregistered';",
    "fieldname": "pan",
    "fieldtype": "Data",
-   "label": "PAN"
+   "label": "PAN",
+   "mandatory_depends_on": "eval:doc.gst_status=='Registered' || doc.gst_status =='Suspended' || doc.gst_status =='Cancelled' || doc.gst_status == 'Unregistered';"
   },
   {
    "fieldname": "column_break_avgi",
    "fieldtype": "Column Break"
   },
   {
+   "depends_on": "eval:doc.number_of_address_provided==2;",
    "fieldname": "gst_status1",
    "fieldtype": "Select",
    "label": "GST Status(Address 2)",
    "options": "\nRegistered\nUnregistered\nSuspended\nCancelled"
   },
   {
+   "depends_on": "eval:doc.gst_status1=='Registered' || doc.gst_status1 =='Suspended' || doc.gst_status1 == 'Cancelled';",
    "fieldname": "gst_category1",
    "fieldtype": "Select",
    "label": "GST Category(Address 2)",
+   "mandatory_depends_on": "eval:doc.gst_status1=='Registered' || doc.gst_status1 =='Suspended' || doc.gst_status1 == 'Cancelled';",
    "options": "\nRegistered Regular\nRegistered Composition\nUnregistered\nSEZ\nOverseas\nDeemed Export\nUIN Holders\nTax Deductor\nTax Collector"
   },
   {
+   "depends_on": "eval:doc.gst_status1=='Registered' || doc.gst_status1 =='Suspended' || doc.gst_status1 == 'Cancelled';",
    "fieldname": "gst_no1",
    "fieldtype": "Data",
-   "label": "GST No.(Address 2)"
-  },
-  {
-   "fieldname": "customer_credit_limit",
-   "fieldtype": "Data",
-   "label": "Customer Credit Limit",
-   "reqd": 1
+   "label": "GST Number(Address 2)",
+   "mandatory_depends_on": "eval:doc.gst_status1=='Registered' || doc.gst_status1 =='Suspended' || doc.gst_status1 == 'Cancelled';"
   },
   {
    "fieldname": "msme_details_section",
@@ -357,24 +370,34 @@
    "fieldname": "customer_code_generated",
    "fieldtype": "Select",
    "label": "Customer Code Generated",
-   "options": "\nYes\nNo"
+   "options": "\nYes\nNo\nAlready Created"
   },
   {
-   "depends_on": "eval:doc.customer_code_generated=='Yes'",
+   "depends_on": "eval:doc.customer_code_generated=='Yes' || doc.customer_code_generated== 'Already Created';",
    "fieldname": "customer_code",
    "fieldtype": "Data",
    "in_global_search": 1,
    "in_list_view": 1,
    "label": "Customer Code",
-   "mandatory_depends_on": "eval:doc.customer_code_generated=='Yes'",
+   "mandatory_depends_on": "eval:doc.customer_code_generated=='Yes' || doc.customer_code_generated== 'Already Created';",
    "unique": 1
   },
   {
-   "depends_on": "eval:doc.customer_code_generated=='No';",
+   "depends_on": "eval:doc.customer_code_generated=='No' || doc.customer_code_generated=='Already Created';",
    "fieldname": "remarks",
    "fieldtype": "Data",
    "label": "Remarks",
-   "mandatory_depends_on": "eval:doc.customer_code_generated=='No';"
+   "mandatory_depends_on": "eval:doc.customer_code_generated=='No' || doc.customer_code_generated=='Already Created';"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Customer Request Form",
+   "print_hide": 1,
+   "read_only": 1,
+   "search_index": 1
   },
   {
    "fieldname": "amended_from",
@@ -390,7 +413,7 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2024-08-29 19:52:17.441491",
+ "modified": "2024-08-30 17:53:50.136991",
  "modified_by": "Administrator",
  "module": "Custom Apps",
  "name": "Customer Request Form",

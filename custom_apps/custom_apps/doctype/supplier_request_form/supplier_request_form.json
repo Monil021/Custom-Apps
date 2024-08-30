@@ -1,9 +1,9 @@
 {
  "actions": [],
  "allow_import": 1,
- "allow_rename": 1,
- "autoname": "SR00000000.#",
- "creation": "2024-06-25 10:35:22.145689",
+ "autoname": "SR000000.###",
+ "creation": "2024-08-30 17:44:09.019395",
+ "default_view": "List",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
@@ -13,6 +13,7 @@
   "column_break_edby",
   "supplier_group",
   "old_supplier_code",
+  "number_of_address",
   "section_break_znxq",
   "address_1",
   "address_type",
@@ -44,6 +45,7 @@
   "gst_status",
   "gst_category",
   "gst_no",
+  "pan",
   "column_break_wjyl",
   "gst_status1",
   "gst_category1",
@@ -65,7 +67,8 @@
   "for_head_office_reference_section",
   "supplier_code_generated",
   "supplier_code",
-  "remarks"
+  "remarks",
+  "amended_from"
  ],
  "fields": [
   {
@@ -104,6 +107,14 @@
    "label": "Old Supplier Code"
   },
   {
+   "default": "1",
+   "fieldname": "number_of_address",
+   "fieldtype": "Select",
+   "label": "Number of Address",
+   "options": "\n1\n2",
+   "reqd": 1
+  },
+  {
    "fieldname": "section_break_znxq",
    "fieldtype": "Section Break",
    "label": "Address Details"
@@ -115,6 +126,7 @@
    "reqd": 1
   },
   {
+   "default": "Billing",
    "fieldname": "address_type",
    "fieldtype": "Select",
    "label": "Address Type",
@@ -185,11 +197,14 @@
    "fieldtype": "Column Break"
   },
   {
+   "depends_on": "eval:doc.number_of_address==2;",
    "fieldname": "address_2",
    "fieldtype": "Small Text",
    "label": "Address 2"
   },
   {
+   "default": "Billing",
+   "depends_on": "eval:doc.number_of_address==2;",
    "fieldname": "address_type1",
    "fieldtype": "Select",
    "label": "Address Type",
@@ -197,6 +212,7 @@
    "options": "\nBilling\nShipping\nOffice\nPersonal\nPlant\nPostal\nShop\nSubsidiary\nWarehouse\nCurrent\nPermanent\nOther"
   },
   {
+   "depends_on": "eval:doc.number_of_address==2;",
    "fieldname": "state1",
    "fieldtype": "Link",
    "label": "State",
@@ -204,6 +220,7 @@
    "options": "State"
   },
   {
+   "depends_on": "eval:doc.number_of_address==2;",
    "fieldname": "district1",
    "fieldtype": "Link",
    "label": "District",
@@ -212,44 +229,52 @@
    "options": "District"
   },
   {
+   "depends_on": "eval:doc.number_of_address==2;",
    "fieldname": "citytown1",
    "fieldtype": "Data",
    "label": "City/Town",
    "mandatory_depends_on": "eval:doc.address_2"
   },
   {
+   "depends_on": "eval:doc.number_of_address==2;",
    "fieldname": "pin_code1",
    "fieldtype": "Data",
    "label": "Pin Code",
    "mandatory_depends_on": "eval:doc.address_2"
   },
   {
+   "depends_on": "eval:doc.number_of_address==2;",
    "fieldname": "country1",
    "fieldtype": "Link",
    "label": "Country",
    "options": "Country"
   },
   {
+   "depends_on": "eval:doc.number_of_address==2;",
    "fieldname": "mobile_no_landline_no1",
    "fieldtype": "Data",
    "label": "Mobile No./ Landline No."
   },
   {
+   "depends_on": "eval:doc.number_of_address==2;",
    "fieldname": "alternate_mobile_no1",
    "fieldtype": "Data",
    "label": "Alternate Mobile No."
   },
   {
+   "depends_on": "eval:doc.number_of_address==2;",
    "fieldname": "contact_person_name1",
    "fieldtype": "Data",
    "label": "Contact Person Name"
   },
   {
+   "depends_on": "eval:doc.number_of_address==2;",
    "fieldname": "mail_1",
    "fieldtype": "Data",
    "label": "Mail "
   },
   {
+   "depends_on": "eval:doc.number_of_address==2;",
    "fieldname": "fax1",
    "fieldtype": "Data",
    "label": "Fax"
@@ -270,40 +295,93 @@
    "options": "\nRegistered\nUnregistered\nSuspended\nCancelled"
   },
   {
+   "depends_on": "eval:doc.gst_status=='Registered' || doc.gst_status =='Suspended' || doc.gst_status =='Cancelled';",
    "fieldname": "gst_category",
    "fieldtype": "Select",
    "label": "GST Category",
-   "mandatory_depends_on": "eval:doc.gst_status=='Registered'",
+   "mandatory_depends_on": "eval:doc.gst_status=='Registered' || doc.gst_status =='Suspended' || doc.gst_status =='Cancelled';",
    "options": "\nRegistered Regular\nRegistered Composition\nUnregistered\nSEZ\nOverseas\nDeemed Export\nUIN Holders\nTax Deductor\nTax Collector"
   },
   {
+   "depends_on": "eval:doc.gst_status=='Registered' || doc.gst_status =='Suspended' || doc.gst_status =='Cancelled';",
    "fieldname": "gst_no",
    "fieldtype": "Data",
    "label": "GST No.",
-   "mandatory_depends_on": "eval:doc.gst_status=='Registered'"
+   "mandatory_depends_on": "eval:doc.gst_status=='Registered' || doc.gst_status =='Suspended' || doc.gst_status =='Cancelled';"
+  },
+  {
+   "depends_on": "eval:doc.gst_status=='Registered' || doc.gst_status =='Suspended' || doc.gst_status =='Cancelled' || doc.gst_status == 'Unregistered';",
+   "fieldname": "pan",
+   "fieldtype": "Data",
+   "label": "PAN ",
+   "mandatory_depends_on": "eval:doc.gst_status=='Registered' || doc.gst_status =='Suspended' || doc.gst_status =='Cancelled' || doc.gst_status == 'Unregistered';"
   },
   {
    "fieldname": "column_break_wjyl",
    "fieldtype": "Column Break"
   },
   {
+   "depends_on": "eval:doc.number_of_address==2;",
    "fieldname": "gst_status1",
    "fieldtype": "Select",
    "label": "GST Status(Address 2)",
    "options": "\nRegistered\nUnregistered\nSuspended\nCancelled"
   },
   {
+   "depends_on": "eval:doc.gst_status1=='Registered' || doc.gst_status1 =='Suspended' || doc.gst_status1 == 'Cancelled';",
    "fieldname": "gst_category1",
    "fieldtype": "Select",
    "label": "GST Category(Address 2)",
-   "mandatory_depends_on": "eval:doc.gst_status1=='Registered'",
+   "mandatory_depends_on": "eval:doc.gst_status1=='Registered' || doc.gst_status1 =='Suspended' || doc.gst_status1 == 'Cancelled';",
    "options": "\nRegistered Regular\nRegistered Composition\nUnregistered\nSEZ\nOverseas\nDeemed Export\nUIN Holders\nTax Deductor\nTax Collector"
   },
   {
+   "depends_on": "eval:doc.gst_status1=='Registered' || doc.gst_status1 =='Suspended' || doc.gst_status1 == 'Cancelled';",
    "fieldname": "gst_no1",
    "fieldtype": "Data",
    "label": "GST No.(Address 2)",
-   "mandatory_depends_on": "eval:doc.gst_status1=='Registered'"
+   "mandatory_depends_on": "eval:doc.gst_status1=='Registered' || doc.gst_status1 =='Suspended' || doc.gst_status1 == 'Cancelled';"
+  },
+  {
+   "fieldname": "msme_details_section",
+   "fieldtype": "Section Break",
+   "label": "MSME Details"
+  },
+  {
+   "default": "No",
+   "fieldname": "yes_or_no",
+   "fieldtype": "Select",
+   "label": "Yes or No",
+   "options": "Yes\nNo"
+  },
+  {
+   "fieldname": "column_break_wvby",
+   "fieldtype": "Column Break"
+  },
+  {
+   "depends_on": "eval:doc.yes_or_no=='Yes'",
+   "fieldname": "msme_no",
+   "fieldtype": "Data",
+   "label": "MSME No.",
+   "mandatory_depends_on": "eval:doc.yes_or_no=='Yes'"
+  },
+  {
+   "depends_on": "eval:doc.yes_or_no=='Yes'",
+   "fieldname": "type_microsmallmedium",
+   "fieldtype": "Select",
+   "label": "MSME Type",
+   "mandatory_depends_on": "eval:doc.yes_or_no=='Yes'",
+   "options": "\nMicro\nSmall\nMedium"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Supplier Request Form",
+   "print_hide": 1,
+   "read_only": 1,
+   "search_index": 1
   },
   {
    "fieldname": "bank_details_section",
@@ -358,35 +436,30 @@
    "options": "\nSavings\nCurrent\nFixed Deposit\nNRI"
   },
   {
-   "fieldname": "msme_details_section",
+   "fieldname": "for_head_office_reference_section",
    "fieldtype": "Section Break",
-   "label": "MSME Details"
+   "label": "For Head Office Reference"
   },
   {
-   "default": "No",
-   "fieldname": "yes_or_no",
+   "fieldname": "supplier_code_generated",
    "fieldtype": "Select",
-   "label": "Yes or No",
-   "options": "Yes\nNo"
+   "label": "Supplier Code Generated",
+   "options": "\nYes\nNo\nAlready Created"
   },
   {
-   "fieldname": "column_break_wvby",
-   "fieldtype": "Column Break"
-  },
-  {
-   "depends_on": "eval:doc.yes_or_no=='Yes'",
-   "fieldname": "msme_no",
+   "depends_on": "eval:doc.supplier_code_generated=='Yes' || doc.supplier_code_generated== 'Already Created';",
+   "fieldname": "supplier_code",
    "fieldtype": "Data",
-   "label": "MSME No.",
-   "mandatory_depends_on": "eval:doc.yes_or_no=='Yes'"
+   "label": "Supplier Code",
+   "mandatory_depends_on": "eval:doc.supplier_code_generated=='Yes' || doc.supplier_code_generated== 'Already Created';",
+   "unique": 1
   },
   {
-   "depends_on": "eval:doc.yes_or_no=='Yes'",
-   "fieldname": "type_microsmallmedium",
-   "fieldtype": "Select",
-   "label": "MSME Type",
-   "mandatory_depends_on": "eval:doc.yes_or_no=='Yes'",
-   "options": "\nMicro\nSmall\nMedium"
+   "depends_on": "eval:doc.supplier_code_generated=='No' || doc.supplier_code_generated== 'Already Created';",
+   "fieldname": "remarks",
+   "fieldtype": "Data",
+   "label": "Remarks",
+   "mandatory_depends_on": "eval:doc.supplier_code_generated=='No' || doc.supplier_code_generated== 'Already Created';"
   },
   {
    "fieldname": "amended_from",
@@ -397,38 +470,12 @@
    "print_hide": 1,
    "read_only": 1,
    "search_index": 1
-  },
-  {
-   "fieldname": "for_head_office_reference_section",
-   "fieldtype": "Section Break",
-   "label": "For Head Office Reference"
-  },
-  {
-   "depends_on": "eval:doc.supplier_code_generated=='Yes';",
-   "fieldname": "supplier_code",
-   "fieldtype": "Data",
-   "label": "Supplier Code",
-   "mandatory_depends_on": "eval:doc.supplier_code_generated=='Yes';",
-   "unique": 1
-  },
-  {
-   "fieldname": "supplier_code_generated",
-   "fieldtype": "Select",
-   "label": "Supplier Code Generated",
-   "options": "\nYes\nNo"
-  },
-  {
-   "depends_on": "eval:doc.supplier_code_generated =='No';",
-   "fieldname": "remarks",
-   "fieldtype": "Data",
-   "label": "Remarks",
-   "mandatory_depends_on": "eval:doc.supplier_code_generated=='No';"
   }
  ],
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2024-08-29 16:55:53.875143",
+ "modified": "2024-08-30 17:44:09.019395",
  "modified_by": "Administrator",
  "module": "Custom Apps",
  "name": "Supplier Request Form",
