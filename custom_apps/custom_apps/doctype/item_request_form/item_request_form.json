@@ -1,0 +1,215 @@
+{
+ "actions": [],
+ "autoname": "IR0000000.###",
+ "creation": "2024-08-30 17:34:13.749067",
+ "default_view": "List",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "section_break_chrz",
+  "item_name",
+  "item_group",
+  "default_expense_account",
+  "deferred_expense_account",
+  "column_break_nxay",
+  "hsnsac",
+  "dom",
+  "old_code",
+  "company",
+  "additional_information_section",
+  "maintain_stock",
+  "multiple_pack_sizes",
+  "enable_weight_adjustment",
+  "include_item_in_manufacturing",
+  "column_break_rexy",
+  "is_single_line_item",
+  "is_fixed_asset",
+  "is_weighable_item",
+  "for_head_office_reference_section",
+  "item_code_generated",
+  "item_code",
+  "remarks",
+  "amended_from"
+ ],
+ "fields": [
+  {
+   "fieldname": "section_break_chrz",
+   "fieldtype": "Section Break",
+   "label": "Item Details"
+  },
+  {
+   "fieldname": "item_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Item Name",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "item_group",
+   "fieldtype": "Link",
+   "label": "Item Group",
+   "options": "Item Group",
+   "reqd": 1
+  },
+  {
+   "depends_on": "eval:doc.item_group=='030302-Service Item';",
+   "fieldname": "default_expense_account",
+   "fieldtype": "Link",
+   "label": "Default Expense Account",
+   "link_filters": "[[\"Account\",\"company\",\"=\",\"eval:doc.company\"]]",
+   "mandatory_depends_on": "eval:doc.item_group=='030302-Service Item';",
+   "options": "Account"
+  },
+  {
+   "depends_on": "eval:doc.item_group=='030302-Service Item';",
+   "fieldname": "deferred_expense_account",
+   "fieldtype": "Link",
+   "label": "Deferred Expense Account",
+   "link_filters": "[[\"Account\",\"company\",\"=\",\"eval:doc.company\"]]",
+   "options": "Account"
+  },
+  {
+   "fieldname": "column_break_nxay",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "hsnsac",
+   "fieldtype": "Link",
+   "label": "HSN/SAC",
+   "options": "GST HSN Code"
+  },
+  {
+   "fieldname": "dom",
+   "fieldtype": "Link",
+   "label": "Default Unit of Measure",
+   "options": "UOM",
+   "reqd": 1
+  },
+  {
+   "fieldname": "old_code",
+   "fieldtype": "Data",
+   "label": "Old Code"
+  },
+  {
+   "fieldname": "company",
+   "fieldtype": "Link",
+   "label": "Company",
+   "options": "Company",
+   "reqd": 1
+  },
+  {
+   "fieldname": "additional_information_section",
+   "fieldtype": "Section Break",
+   "label": "Additional Information"
+  },
+  {
+   "default": "0",
+   "fieldname": "maintain_stock",
+   "fieldtype": "Check",
+   "label": "Maintain Stock"
+  },
+  {
+   "default": "0",
+   "fieldname": "multiple_pack_sizes",
+   "fieldtype": "Check",
+   "label": "Multiple Pack Sizes"
+  },
+  {
+   "default": "0",
+   "fieldname": "enable_weight_adjustment",
+   "fieldtype": "Check",
+   "label": "Enable Weight Adjustment"
+  },
+  {
+   "default": "0",
+   "fieldname": "include_item_in_manufacturing",
+   "fieldtype": "Check",
+   "label": "Include Item in Manufacturing"
+  },
+  {
+   "fieldname": "column_break_rexy",
+   "fieldtype": "Column Break"
+  },
+  {
+   "default": "0",
+   "fieldname": "is_single_line_item",
+   "fieldtype": "Check",
+   "label": "Is Single Line Item"
+  },
+  {
+   "default": "0",
+   "fieldname": "is_fixed_asset",
+   "fieldtype": "Check",
+   "label": "Is Fixed Asset"
+  },
+  {
+   "default": "0",
+   "fieldname": "is_weighable_item",
+   "fieldtype": "Check",
+   "label": "Is Weighable Item"
+  },
+  {
+   "fieldname": "for_head_office_reference_section",
+   "fieldtype": "Section Break",
+   "label": "For Head Office Reference"
+  },
+  {
+   "fieldname": "item_code_generated",
+   "fieldtype": "Select",
+   "label": "Item Code Generated",
+   "options": "\nYes\nNo\nAlready Created"
+  },
+  {
+   "depends_on": "eval:doc.item_code_generated=='Yes' || doc.item_code_generated=='Already Created';",
+   "fieldname": "item_code",
+   "fieldtype": "Data",
+   "label": "Item Code",
+   "mandatory_depends_on": "eval:doc.item_code_generated=='Yes' || doc.item_code_generated=='Already Created';"
+  },
+  {
+   "depends_on": "eval:doc.item_code_generated=='No' || doc.item_code_generated=='Already Created';",
+   "fieldname": "remarks",
+   "fieldtype": "Data",
+   "label": "Remarks",
+   "mandatory_depends_on": "eval:doc.item_code_generated=='No' || doc.item_code_generated=='Already Created';"
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Item Request Form",
+   "print_hide": 1,
+   "read_only": 1,
+   "search_index": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "is_submittable": 1,
+ "links": [],
+ "modified": "2024-08-30 17:36:04.389676",
+ "modified_by": "Administrator",
+ "module": "Custom Apps",
+ "name": "Item Request Form",
+ "naming_rule": "By \"Naming Series\" field",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "submit": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

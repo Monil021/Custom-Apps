@@ -183,7 +183,7 @@ frappe.ui.form.on('Customer Request Form', {
             
             if (gstRegex.test(frm.doc.gst_no)) {
                 var gstStateCode = frm.doc.gst_no.substring(0, 2); // Extract state code from GST number
-                if(frm.doc.gst_status=='Registered' && frm.doc.gst_category=='Registered Regular'){
+                if(frm.doc.gst_status=='Suspended'|| frm.doc.gst_status=='Cancelled' || frm.doc.gst_status=='Registered'){
                 var x = frm.doc.gst_no.substring(2,12);
                 frm.set_value('pan',x);
                 }
